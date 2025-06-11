@@ -21,6 +21,18 @@ You can readily access **OSR-Tool** without any installation at:
 
 ## Applications
 
+**OSR-Tool** is applicable to industries such as:
+- Polymers
+- Paints and coatings
+- Food
+- Cosmetics and Pharmaceuticals
+- Petrochemicals
+- Asphalts and Bitumen
+- Automotives
+- Adhesives and Sealants
+- Building materials
+- Mining
+
 Ideal for academic research and laboratory environments working with:
 - Soft matter  
 - Hydrogels  
