@@ -41,4 +41,6 @@ Ideal for academic research and laboratory environments working with:
 
 ---
 
+**🤌 The authors encourage researchers who use OSR-Tool to acknowledge its contribution in their publications, where appropriate.**
+
 Feel free to contribute or raise issues to improve the tool!
