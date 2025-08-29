@@ -45,4 +45,6 @@ Ideal for academic research and laboratory environments working with:
 
 The authors encourage researchers who use **OSR-Tool** to acknowledge its contribution in their publications, where appropriate.
 
+Nnyigide, T.O., Song, H.Y., Ndibe, U., Nnyigide, O.S., Hyun, K. Oscillatory shear rheology (OSR)-tool: a web-based platform for analyzing oscillatory shear rheological data. Korea-Aust. Rheol. J. (2025).  https://doi.org/10.1007/s13367-025-00127-3  
+
 Feel free to contribute or raise issues to improve the tool!
